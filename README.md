@@ -68,3 +68,7 @@ Kabuto_Kun氏からの削除連絡があった場合は削除します。
 
 基になったコードのURL
 https://forums.ppsspp.org/showthread.php?tid=4799&pid=103947#pid103947
+
+
+ppsspp forumにも投稿しました。
+https://forums.ppsspp.org/showthread.php?tid=4799&pid=153364#pid153364
